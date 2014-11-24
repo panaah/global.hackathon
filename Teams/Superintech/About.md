@@ -11,7 +11,7 @@ About Us
 
 | Vijayinder Singh | Swapnil Samfrancisco
 |--- |--- |--- |---
-| ![Vijayinder Singh](http://superintech.com/hackathon/vj.gif) | ![Swapnil Samfrncisco](http://superintech.com/hackathon/swapnil.gif) | 
+| ![Vijayinder Singh](http://superintech.com/hackathon/vj.gif) | ![Swapnil Samfrancisco](http://superintech.com/hackathon/swapnil.gif) | 
 
 We are geeks and we have joined this hackathon to win the prize money and invest it into our brand new idea for which we are looking desperately for funds nowdays.
 We have lot of ideas as we have 7 years of experience in different streams.
